@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(0, 221, 255);
+    color: rgb(0, 100, 105);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.objects{
+    color:rgb(0, 133, 145);
+    text-shadow: 2px 2px rgb(255, 255, 255);
+}
+
+#camera{
+    height: 100px;
+    width: 200px;
+    border-color: rgb(0, 117, 128);
+    border-style: double;
+}
+
+#webcam_result{
+    height: 100px;
+    width: 200px;
+    border-color: rgb(0, 122, 128);
+    border-style: dotted;
+}
